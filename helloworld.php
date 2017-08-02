@@ -1,4 +1,6 @@
 <?php
-print "hw001";
+
+print "good bye hw001";
 
 ?>
+
